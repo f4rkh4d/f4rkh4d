@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**f4rkh4d/f4rkh4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+farkhad — 19 · boston
+just a student who likes making stuff
+```
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```sh
+$ ls -1 ~/stuff/
+envdiff       # compares .env files
+logsift       # searches through json / logfmt logs
+portwatch     # shows which processes are holding your ports
+dotsync       # dotfiles, but with profiles
+ghstat        # terminal dashboard for your github repos
+apilens       # api proxy with a little dashboard
+cmdvault      # saves commands so you don't forget them
+jsonmorph     # does stuff to json
+```
+
+```sh
+$ cat ~/about.txt
+— learning as i go
+— mostly python, a little of everything else
+— build small things. see if they stick. move on.
+— open to chat
+```
+
+<p align="center">
+  <sub>
+    <a href="https://frkhd.com/">frkhd.com</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:bennett@frkhd.com">bennett@frkhd.com</a>
+    &nbsp;·&nbsp;
+    <a href="https://instagram.com/farkhadbennett">instagram</a>
+  </sub>
+</p>
