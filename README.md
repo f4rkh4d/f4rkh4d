@@ -1,38 +1,46 @@
-<div align="center">
-
 ```
-farkhad — 19 · boston
-just a student who likes making stuff
+                farkhad
+                19 · boston
 ```
 
-</div>
 
-```sh
-$ ls -1 ~/stuff/
-envdiff       # compares .env files
-logsift       # searches through json / logfmt logs
-portwatch     # shows which processes are holding your ports
-dotsync       # dotfiles, but with profiles
-ghstat        # terminal dashboard for your github repos
-apilens       # api proxy with a little dashboard
-cmdvault      # saves commands so you don't forget them
-jsonmorph     # does stuff to json
+currently making:
+
+```
+    a handful of python cli tools.
+    a telegram mini-app for a furniture shop in kazakhstan.
+    two companies that mostly exist on paper.
 ```
 
-```sh
-$ cat ~/about.txt
-— learning as i go
-— mostly python, a little of everything else
-— build small things. see if they stick. move on.
-— open to chat
+
+currently not:
+
+```
+    branding myself as "ai/ml engineer".
+    a startup bro.
+    selling you anything here.
 ```
 
-<p align="center">
-  <sub>
-    <a href="https://frkhd.com/">frkhd.com</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:bennett@frkhd.com">bennett@frkhd.com</a>
-    &nbsp;·&nbsp;
-    <a href="https://instagram.com/farkhadbennett">instagram</a>
-  </sub>
-</p>
+
+ships that still float:
+
+```
+    envdiff       diff .env files without leaking secrets
+    logsift       structured log search (json / logfmt)
+    portwatch     who's holding my port
+    procstream    subprocess, less pain
+    dotsync       dotfiles with profiles
+
+    safe mebel    a real shop runs on this
+    astrionhub    holding company
+    unimate       slow-cooked saas for students
+```
+
+
+reach me:
+
+```
+    bennett@frkhd.com     i read every one
+    @f4rkh4d              faster
+    frkhd.com             longer story
+```
