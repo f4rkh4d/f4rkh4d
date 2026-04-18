@@ -1,17 +1,8 @@
 ### hi, i'm farkhad
 
-19. polyglot at programming languages, monoglot at centering divs.
+19. shipping small tools in whatever language fits the problem.
 
-remote, working globally. shipping small tools across many languages — python, typescript, go, rust, dart, swift, ruby, c, php.
-
-not trying to brand myself as anything specific. just a student making things.
-
-portfolio lives at **[frkhd.com](https://frkhd.com)**.
-
-**published packages**
-
-- [procstream](https://pypi.org/project/procstream/) on pypi — `pip install procstream`
-- [linkchk](https://www.npmjs.com/package/linkchk) on npm — `npm i -g linkchk`
+portfolio at **[frkhd.com](https://frkhd.com)**.
 
 **reach me**
 
