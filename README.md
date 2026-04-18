@@ -1,46 +1,27 @@
-```
-                farkhad
-                19 · boston
-```
+### hi, i'm farkhad
 
+19, boston. generalist. mostly python.
 
-currently making:
+i make command-line tools, a telegram mini-app for a furniture shop in kazakhstan, and two companies that mostly exist on paper.
 
-```
-    a handful of python cli tools.
-    a telegram mini-app for a furniture shop in kazakhstan.
-    two companies that mostly exist on paper.
-```
+i'm not trying to brand myself as "ai/ml engineer" or a startup bro. not selling anything here.
 
+**things i've built that still run:**
 
-currently not:
+- [envdiff](https://github.com/f4rkh4d/envdiff) — diff `.env` files without leaking secrets
+- [logsift](https://github.com/f4rkh4d/logsift) — structured log search (JSON / logfmt)
+- [portwatch](https://github.com/f4rkh4d/portwatch) — who's holding my port
+- [procstream](https://github.com/f4rkh4d/procstream) — subprocess, less pain
+- [dotsync](https://github.com/f4rkh4d/dotsync) — dotfiles with profiles
 
-```
-    branding myself as "ai/ml engineer".
-    a startup bro.
-    selling you anything here.
-```
+**working on:**
 
+- [Safe Mebel](https://safemebel.com) — a real furniture shop runs on this
+- [AstrionHub](https://astrionhub.com) — holding company
+- [UniMate](https://getunimate.com) — slow-cooked SaaS for students
 
-ships that still float:
+**reach me:**
 
-```
-    envdiff       diff .env files without leaking secrets
-    logsift       structured log search (json / logfmt)
-    portwatch     who's holding my port
-    procstream    subprocess, less pain
-    dotsync       dotfiles with profiles
-
-    safe mebel    a real shop runs on this
-    astrionhub    holding company
-    unimate       slow-cooked saas for students
-```
-
-
-reach me:
-
-```
-    bennett@frkhd.com     i read every one
-    @f4rkh4d              faster
-    frkhd.com             longer story
-```
+- [bennett@frkhd.com](mailto:bennett@frkhd.com) — i read every one
+- [@f4rkh4d](https://t.me/f4rkh4d) on Telegram — faster
+- [frkhd.com](https://frkhd.com) — longer story
