@@ -1,6 +1,8 @@
 ### hi, i'm farkhad
 
-19, boston. generalist. shipping small tools across many languages — python, typescript, go, rust, dart, swift, ruby, c.
+19. polyglot at programming languages, monoglot at centering divs.
+
+remote, working globally. shipping small tools across many languages — python, typescript, go, rust, dart, swift, ruby, c, php.
 
 not trying to brand myself as anything specific. just a student making things.
 
