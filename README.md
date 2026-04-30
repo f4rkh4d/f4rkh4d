@@ -1,6 +1,6 @@
 ### hi, i'm farkhad
 
-19. zürich, sometimes almaty. eth freshman, mostly rust.
+19. hofuf or zürich, sometimes almaty. eth freshman, mostly rust.
 
 i make **small things** on purpose. there's a JIT in there that fits in your head, an SQL linter that runs in 6ms, a tax calculator i wrote because the existing ones look like they were built in 2007 (they were). a process inspector that doesn't lie about RSS. a kazakh chess engine that beats me 41 out of 50.
 
