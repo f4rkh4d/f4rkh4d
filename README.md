@@ -14,10 +14,14 @@ none of them will change the world. that's also on purpose.
 
 <div align="center">
 
-<a href="https://github.com/f4rkh4d?tab=repositories"><img height="160" src="https://github-readme-stats.vercel.app/api?username=f4rkh4d&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&hide_title=true&hide=contribs&theme=transparent&icon_color=000000&title_color=000000&text_color=000000" /></a>
-<a href="https://github.com/f4rkh4d?tab=repositories"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4rkh4d&layout=compact&hide_border=true&hide_title=true&theme=transparent&title_color=000000&text_color=000000&langs_count=8" /></a>
+<a href="https://github.com/f4rkh4d?tab=repositories"><img height="170" src="https://github-readme-stats.vercel.app/api?username=f4rkh4d&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&hide_title=true&hide=contribs&bg_color=00000000&icon_color=000000&title_color=000000&text_color=222222" /></a>
+<a href="https://github.com/f4rkh4d?tab=repositories"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4rkh4d&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=000000&text_color=222222&langs_count=8" /></a>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=f4rkh4d&bg_color=ffffff00&color=000000&line=000000&point=000000&area=true&area_color=000000&hide_border=true&custom_title=" />
+<a href="https://github.com/f4rkh4d?tab=repositories"><img height="170" src="https://streak-stats.demolab.com/?user=f4rkh4d&hide_border=true&background=00000000&stroke=00000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=666666" /></a>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=f4rkh4d&bg_color=ffffff00&color=000000&line=000000&point=000000&area=true&area_color=000000&hide_border=true&hide_title=true" />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f4rkh4d&theme=flat&no-frame=true&no-bg=true&row=1&column=8&margin-w=10" /></a>
 
 </div>
 
