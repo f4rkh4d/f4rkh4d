@@ -10,13 +10,15 @@ none of them will change the world. that's also on purpose.
 
 #### currently
 
+- skl 1.0 (package manager for ai agent skills, bun, single binary)
+- agent-budget 0.1 (reads claude code transcripts, prints a usd bill)
 - pulse v0.4 (TUI for local dev servers, mac+linux+arm)
 - drift v0.15 (sql linter, 70 rules across 5 dialects)
 - jitvm v0.2 (toy lang + jit, ~12x over the bytecode interp)
-- a study app for kz students that nobody asked for
 
 #### somewhere to start reading
 
+- [skl](https://github.com/f4rkh4d/skl) — `skl install obra/superpowers` and the skill is on your machine
 - [pulse.frkhd.com](https://pulse.frkhd.com) — the morning standup terminal
 - [drift.frkhd.com](https://drift.frkhd.com) — sql linter
 - [jitvm.frkhd.com](https://jitvm.frkhd.com) — the JIT
