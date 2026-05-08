@@ -3,7 +3,7 @@
 i make small things, mostly in rust. sometimes c, zig, odin, crystal, whatever fits.
 
 - a one-pass x86-64 jit (12x over my bytecode interp)
-- an sql linter (6ms across 5 dialects, 50-200x sqlfluff)
+- an sql linter (50-200x sqlfluff, schema-aware, runs in your browser: [demo](https://drift.frkhd.com/play/))
 - a 785-line x86-64 kernel that round-robins three tasks in qemu
 - a post-quantum kem from scratch (fips 203, nist kat verified)
 - a tax calculator because the existing ones look like 2007
