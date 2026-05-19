@@ -17,6 +17,8 @@ still can't center a div.
 
 | when    | what                                                                | one-liner                                                                       |
 | ------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| may 26  | [lens](https://github.com/f4rkh4d/lens)                             | usage analytics for claude code. cost / tokens / tools / files from your `~/.claude` |
+| may 26  | [vibe](https://github.com/f4rkh4d/vibe)                             | url → palette + fonts + stack snapshot. one command, no devtools                |
 | may 26  | [palette](https://github.com/f4rkh4d/palette)                       | image → dominant-color palette, k-means in CIELAB. `brew install f4rkh4d/tap/palette` |
 | may 26  | [asciify](https://github.com/f4rkh4d/asciify)                       | any image into ASCII / half-block in your terminal. animated GIFs play in place |
 | may 26  | [agentdesk](https://github.com/f4rkh4d/agentdesk)                   | AI-native office sim. 10 agents living in a pixel office, real schedules, real telegram |
@@ -28,10 +30,10 @@ still can't center a div.
 ### things i've built
 
 - **devtool CLIs** — [drift](https://github.com/f4rkh4d/drift) (sql linter) · [csvpeek](https://github.com/f4rkh4d/csvpeek) · [jwtpeek](https://github.com/f4rkh4d/jwtpeek) · [linkchk](https://github.com/f4rkh4d/linkchk) · [pulse](https://github.com/f4rkh4d/pulse) · [bench](https://github.com/f4rkh4d/bench) · [cmdvault](https://github.com/f4rkh4d/cmdvault) · [pkgwatch](https://github.com/f4rkh4d/pkgwatch)
-- **visual / terminal** — [asciify](https://github.com/f4rkh4d/asciify) · [palette](https://github.com/f4rkh4d/palette)
+- **visual / terminal** — [asciify](https://github.com/f4rkh4d/asciify) · [palette](https://github.com/f4rkh4d/palette) · [vibe](https://github.com/f4rkh4d/vibe)
 - **systems / low-level** — [jitvm](https://github.com/f4rkh4d/jitvm) (x86-64 JIT, 12× over bytecode interp) · [nanokern](https://github.com/f4rkh4d/nanokern) (~3000-line C kernel, paging + scheduler + syscalls) · [pith](https://github.com/f4rkh4d/pith) (sel4-shaped microkernel for riscv64) · [tape](https://github.com/f4rkh4d/tape) (deterministic record/replay)
 - **crypto** — [mlkem-tls](https://github.com/f4rkh4d/mlkem-tls) (X25519MLKEM768 hybrid PQ-KEM, FIPS 203, NIST KAT verified) · [pqfetch](https://github.com/f4rkh4d/pqfetch)
-- **agents / LLM tooling** — [agentdesk](https://github.com/f4rkh4d/agentdesk) · [agent-dsl](https://github.com/f4rkh4d/agent-dsl) · [agent-sandbox](https://github.com/f4rkh4d/agent-sandbox) · [bashward](https://github.com/f4rkh4d/bashward) · [anthropic-sse](https://github.com/f4rkh4d/anthropic-sse) · [llm-pricing](https://github.com/f4rkh4d/llm-pricing)
+- **agents / LLM tooling** — [agentdesk](https://github.com/f4rkh4d/agentdesk) · [lens](https://github.com/f4rkh4d/lens) (claude-code analytics) · [agent-dsl](https://github.com/f4rkh4d/agent-dsl) · [agent-sandbox](https://github.com/f4rkh4d/agent-sandbox) · [bashward](https://github.com/f4rkh4d/bashward) · [anthropic-sse](https://github.com/f4rkh4d/anthropic-sse) · [llm-pricing](https://github.com/f4rkh4d/llm-pricing)
 - **infra / data** — [veco](https://github.com/f4rkh4d/veco) (vector db) · [turso](https://github.com/f4rkh4d/turso) (in-proc sqlite-compatible)
 - **products** — [getunimate.com](https://github.com/f4rkh4d/getunimate.com) (study app for KZ students, AG in Zurich) · [qarym](https://github.com/f4rkh4d/qarym) (multitenant CRM for KZ SMB)
 
